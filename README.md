@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Vignesh! 👋  
+Final Year CSE Student | Python | SQL | Web Development | Problem Solver  
 
-<!--
-**vignesh-4444/vignesh-4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about building practical, user-focused applications and continuously improving my skills through real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Languages:** Python, JavaScript, SQL, HTML, CSS  
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+- **Backend:** Python (Flask), Node.js (basic)  
+- **Database:** MySQL  
+- **Tools & Platforms:** Git, GitHub, Excel
+
+---
+
+### 🧠 Projects
+- **[AI Fitness Coach](https://github.com/vignesh-4444/AI-Fitness-Coach):**  
+  An AI-powered virtual trainer using computer vision (MediaPipe + OpenCV) to give posture feedback in real time.
+
+---
+
+### 📈 Learning
+Currently exploring:
+- React.js  
+- REST APIs  
+- Frontend architecture  
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/vignesh444)  
+- Email: vigneshsanthosh46@gmail.com  
+
+---
+
+Thanks for visiting! I'm always open to collaboration, internships, and exciting opportunities to grow.
