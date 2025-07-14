@@ -1,5 +1,5 @@
 # Hi, I'm Vignesh! 👋  
-Final Year CSE Student | Python | SQL | Web Development | Problem Solver  
+Recent CSE Graduate | Python | SQL | Web Development | Problem Solver  
 
 Welcome to my GitHub! I'm passionate about building practical, user-focused applications and continuously improving my skills through real-world projects.
 
