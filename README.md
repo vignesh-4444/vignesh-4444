@@ -15,16 +15,19 @@ Welcome to my GitHub! I'm passionate about building practical, user-focused appl
 ---
 
 ### 🧠 Projects
-- **[AI Fitness Coach](https://github.com/vignesh-4444/AI-Fitness-Coach):**  
-  An AI-powered virtual trainer using computer vision (MediaPipe + OpenCV) to give posture feedback in real time.
+- **[EliteStore – E-Commerce Front-End](https://github.com/vignesh-4444/EliteStore):**  
+  *Web Application | React, TypeScript, Tailwind CSS, Vite* 
+  - Designed a responsive e-commerce UI with modular components and state management.  
+  - Simulated backend integration using local state & mock data.  
+  - Optimized layout rendering for better performance.
 
 ---
 
 ### 📈 Learning
-Currently exploring:
-- React.js  
-- REST APIs  
-- Frontend architecture  
+Currently exploring: 
+- Advanced Python programming  
+- Data Structures & Algorithms (DSA) in Python  
+- Problem-solving through coding challenges  
 
 ---
 
