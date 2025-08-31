@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about building practical, user-focused appl
 
 ---
 
-### 🧠 Projects
+### 🧠 Project
 - **[EliteStore – E-Commerce Front-End](https://github.com/vignesh-4444/EliteStore):**  
   *Web Application | React, TypeScript, Tailwind CSS, Vite* 
   - Designed a responsive e-commerce UI with modular components and state management.  
